@@ -8,6 +8,9 @@ export default {
   ],
   theme: {
     extend: {
+      fontfamily: {
+        lato: ['lato', 'sans-serif']
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
